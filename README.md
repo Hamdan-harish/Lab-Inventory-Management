@@ -88,7 +88,7 @@ java -cp out app.Main
 
 
 🔐 Sample Login Users
-User ID	  Role
-S001	    Student
-P001	    Professor
-A001	    Admin
+User ID	  Role<br>
+S001	    Student<br>
+P001	    Professor<br>
+A001	    Admin<br>
