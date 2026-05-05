@@ -58,3 +58,37 @@ The system supports three types of users:
 ---
 
 ## 📁 Project Structure
+src/
+├── app/
+│ └── Main.java
+├── model/
+│ ├── Lab.java
+│ ├── Equipment.java
+│ └── Booking.java
+├── service/
+│ ├── LabService.java
+│ └── EquipmentException.java
+└── user/
+├── User.java
+├── Student.java
+├── Professor.java
+└── Admin.java
+
+
+---
+
+## ▶️ How to Run
+
+### Compile:
+javac -d out src/app/Main.java src/model/*.java src/service/*.java src/user/*.java
+
+## Run
+java -cp out app.Main
+
+
+
+🔐 Sample Login Users
+User ID	  Role
+S001	    Student
+P001	    Professor
+A001	    Admin
