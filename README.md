@@ -58,21 +58,21 @@ The system supports three types of users:
 ---
 
 ## 📁 Project Structure
-src/
-├── app/
-│ └── Main.java
-├── model/
-│ ├── Lab.java
-│ ├── Equipment.java
-│ └── Booking.java
-├── service/
-│ ├── LabService.java
-│ └── EquipmentException.java
-└── user/
-├── User.java
-├── Student.java
-├── Professor.java
-└── Admin.java
+src/<br>
+├── app/<br>
+│ └── Main.java<br>
+├── model/<br>
+│ ├── Lab.java<br>
+│ ├── Equipment.java<br>
+│ └── Booking.java<br>
+├── service/<br>
+│ ├── LabService.java<br>
+│ └── EquipmentException.java<br>
+└── user/<br>
+├── User.java<br>
+├── Student.java<br>
+├── Professor.java<br>
+└── Admin.java<br>
 
 
 ---
